@@ -1,7 +1,5 @@
 package com.example.demo;
 
-import org.springframework.boot.SpringApplication;
-
 public class sentenciasControl {
 	public static void main(String[] args) {
 		/*Usando un if*/
